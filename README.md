@@ -1,3 +1,3 @@
-# DSCI-6004-NLP
+# NLP from scratch
 
-Natural Language Processing assignments.
+Natural Language Processing implementations from scratch in Python.
